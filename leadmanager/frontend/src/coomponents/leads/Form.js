@@ -57,6 +57,7 @@ class Form extends Component {
                             name="message"
                             onChange={this.onChange}
                             value={message}
+
                         />
                     </div>
                     <div className="form-group">
